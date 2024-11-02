@@ -1,8 +1,6 @@
 import { UserEstonia } from '../src/UserEstonia'
 import { UserLatvia } from '../src/UserLatvia'
 import { KYC } from '../src/KYC'
-import { UserBase } from '../src/UserBase'
-import { User } from '../src/User'
 
 let userEstonia: UserEstonia
 let userLatvia: UserLatvia
